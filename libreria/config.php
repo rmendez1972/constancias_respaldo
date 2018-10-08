@@ -28,7 +28,7 @@ $UsrMysql='root';
 //$ClaveMysql='shalala';
 $ClaveMysql='SeDB.2015';
 
-$DB='constancias';
+$DB='constancias_backup';
 
 //setlocale(LC_TIME,"sp");
 
